@@ -13,4 +13,4 @@
 ![Image alt](https://github.com/popwow47/multimedia-database/blob/main/Screenshot_4.png)
 
 ## Require OS 
-Windows 10+
+Windows 10 or higher
