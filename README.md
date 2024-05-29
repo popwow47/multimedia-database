@@ -1,19 +1,24 @@
-# How to use
+# Multimedia database script
 
-## Add data to database
-![Image alt](https://github.com/popwow47/multimedia-database/blob/main/Screenshot_1.png)
+This script is designed to create and manage a multimedia database. It allows users to store and organize information about their favorite films, TV series, cartoons, animated series and anime, such as title, release date, actors, and the user's viewing status of a particular media product. This README file contains instructions for using this application and describes its main functions.
 
-## Get all data from category
-![Image alt](https://github.com/popwow47/multimedia-database/blob/main/Screenshot_2.png)
+## Functions
+- Database management: create, update and delete entries in the multimedia database.
+- Search functionality: Search media files by keywords, tags or categories.
 
-## Update parameter
-![Image alt](https://github.com/popwow47/multimedia-database/blob/main/Screenshot_3.png)
+## Installation
 
-## Search by parametr
-![Image alt](https://github.com/popwow47/multimedia-database/blob/main/Screenshot_4.png)
+ Clone the repository to your local computer using the following command:
 
-## Require OS 
-Windows 10 or higher
+```shell
+ git clone https://github.com/popwow47/multimedia-database.git
+```
 
-## RUN
-movie_data_base.exe
+## Usage
+
+1. Run the executable file movie_data_base.exe
+2 Select the checkbox of the media category you want to work with
+3. Fill in the required input fields (according to the category)
+4. Click the “Add to DB” button
+5. Browse and search media files using the search bar and filters.
+6. Manage database records, editing them as needed.
