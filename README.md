@@ -14,3 +14,6 @@
 
 ## Require OS 
 Windows 10 or higher
+
+## RUN
+movie_data_base.exe
