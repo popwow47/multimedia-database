@@ -17,8 +17,14 @@ This script is designed to create and manage a multimedia database. It allows us
 ## Usage
 
 1. Run the executable file movie_data_base.exe
+   ![Image alt](https://github.com/popwow47/multimedia-database/blob/main/screenshots/Screenshot_1.png)
 2 Select the checkbox of the media category you want to work with
+![Image alt](https://github.com/popwow47/multimedia-database/blob/main/screenshots/Screenshot_2.png)
 3. Fill in the required input fields (according to the category)
+   ![Image alt](https://github.com/popwow47/multimedia-database/blob/main/screenshots/Screenshot_3.png)
 4. Click the “Add to DB” button
+   ![Image alt](https://github.com/popwow47/multimedia-database/blob/main/screenshots/Screenshot_4.png)
 5. Browse and search media files using the search bar and filters.
+   ![Image alt](https://github.com/popwow47/multimedia-database/blob/main/screenshots/Screenshot_5.png)
 6. Manage database records, editing them as needed.
+   ![Image alt](https://github.com/popwow47/multimedia-database/blob/main/screenshots/Screenshot_6.png)
